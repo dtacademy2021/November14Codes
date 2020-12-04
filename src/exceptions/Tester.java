@@ -14,6 +14,9 @@ public class Tester {
 		s = null;
 		
 		
+		s = new SomeClass();
+		
+		
 	//	s.finalize(); // JVM will call finalize() method before the object gets garbage collected
 		
 		
